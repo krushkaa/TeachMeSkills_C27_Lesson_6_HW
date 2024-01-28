@@ -1,1 +1,1 @@
-# TeachMeSkills_C27_Lesson_7_HW
+# TeachMeSkills_C27_Lesson_6_HW
